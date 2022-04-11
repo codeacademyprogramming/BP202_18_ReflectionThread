@@ -1,0 +1,13 @@
+C:\Users\Eagha\Desktop\CodeLessons\BP202\21. 11042022\11042022\ThreadLesson\bin\Debug\netcoreapp3.1\ThreadLesson.exe
+C:\Users\Eagha\Desktop\CodeLessons\BP202\21. 11042022\11042022\ThreadLesson\bin\Debug\netcoreapp3.1\ThreadLesson.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\BP202\21. 11042022\11042022\ThreadLesson\bin\Debug\netcoreapp3.1\ThreadLesson.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\BP202\21. 11042022\11042022\ThreadLesson\bin\Debug\netcoreapp3.1\ThreadLesson.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\BP202\21. 11042022\11042022\ThreadLesson\bin\Debug\netcoreapp3.1\ThreadLesson.dll
+C:\Users\Eagha\Desktop\CodeLessons\BP202\21. 11042022\11042022\ThreadLesson\bin\Debug\netcoreapp3.1\ThreadLesson.pdb
+C:\Users\Eagha\Desktop\CodeLessons\BP202\21. 11042022\11042022\ThreadLesson\obj\Debug\netcoreapp3.1\ThreadLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\BP202\21. 11042022\11042022\ThreadLesson\obj\Debug\netcoreapp3.1\ThreadLesson.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\BP202\21. 11042022\11042022\ThreadLesson\obj\Debug\netcoreapp3.1\ThreadLesson.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\BP202\21. 11042022\11042022\ThreadLesson\obj\Debug\netcoreapp3.1\ThreadLesson.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\BP202\21. 11042022\11042022\ThreadLesson\obj\Debug\netcoreapp3.1\ThreadLesson.dll
+C:\Users\Eagha\Desktop\CodeLessons\BP202\21. 11042022\11042022\ThreadLesson\obj\Debug\netcoreapp3.1\ThreadLesson.pdb
+C:\Users\Eagha\Desktop\CodeLessons\BP202\21. 11042022\11042022\ThreadLesson\obj\Debug\netcoreapp3.1\ThreadLesson.genruntimeconfig.cache
